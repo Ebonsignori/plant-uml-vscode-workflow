@@ -1,5 +1,5 @@
 {
-  "name": "plant-uml-water",
+  "name": "plant-uml-workflow",
   "version": "1.0.0",
   "description": "VS Code & Docker workflow for PlantUML",
   "scripts": {
