@@ -27,6 +27,6 @@ The Docker PlantUML container needs to be running to use the PlantUML VS Code ex
 
 You can use the following `ctrl+shift+p` or `command+shift+p` commands:
 
-1. `PlantUML: Preview Current Diagram` on an open `.wsd` diagram file to get live-reloading preview.
-2. `PlantUML: Export Current Diagram` on an open `.wsd` diagram file to export it to an image file into the `diagrams-out/` directory. 
+1. `PlantUML: Preview Current Diagram` on an open `.puml` diagram file to get live-reloading preview.
+2. `PlantUML: Export Current Diagram` on an open `.puml` diagram file to export it to an image file into the `diagrams-out/` directory. 
 
